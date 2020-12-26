@@ -62,7 +62,7 @@ public class Demo {
 	    	System.out.println("testWrongLoginCorrectPassword is failure");	
 	    }
 	}
-	
+}
 
 	
 	public static void main(String[] args) throws InterruptedException {
